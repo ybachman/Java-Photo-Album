@@ -3,7 +3,7 @@ Simulation of a photo album, demonstrating use of GUI in Java.
 
 Upon startup, 5 default images are displayed. All images are their own button. 
 
-Users May:
+Users May:<br>
 Add their own images using an image URL from a photo hosting website, like tinypic.
 View a larger version of the image.
 Select "Edit" or "Delete" from the drop-down menu.

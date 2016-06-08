@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ybachman_Midterm_Project_Photo_Album.jnlp">
+  <information>
+    <title>ybachman_Midterm_Project_Photo_Album</title>
+    <vendor>Yulia</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ybachman_Midterm_Project_Photo_Album.jar" size="10771" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ybachman_Midterm_Project_Photo_Album" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ybachman_midterm_project.Ybachman_Midterm_Project"  name="ybachman_Midterm_Project_Photo_Album" />
+  <update check="always"/>
+</jnlp>
